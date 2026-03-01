@@ -1,2 +1,2 @@
-# lumen_privacy_policy
+# Lumen privacy policy
 Privacy Policy for iOS app Lumen
